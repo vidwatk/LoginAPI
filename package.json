@@ -1,0 +1,24 @@
+{
+  "name": "loginapi",
+  "version": "1.0.0",
+  "description": "This is a Login API Developed in NodeJS, MongoDB and express. (JWT implemented)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidwatk/LoginAPI.git"
+  },
+  "author": "Vidwat Kanade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidwatk/LoginAPI/issues"
+  },
+  "homepage": "https://github.com/vidwatk/LoginAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
