@@ -7,6 +7,6 @@ mongoose
     useUnifiedTopology: true
 })
 .then(() => {
-    console.log("The database is now connected. Mission 1: Accompalished ;)")
+    console.log("The database is now connected. Mission 1: Accomplished ;)")
 })
 .catch((err) => console.log("err"))
